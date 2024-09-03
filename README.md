@@ -32,7 +32,7 @@ Los equipos de Fórmula 1, también conocidos como "constructores", están en el
 - **Ayrton Senna**: El brasileño conocido por su talento puro y sus épicas batallas en la pista.
 - **Lewis Hamilton**: Uno de los mejores pilotos de todos los tiempos, con récords de victorias y pole positions.
 
-![Piloto de F1](https://www.formula1.com/content/dam/fom-website/manual/Misc/2023manual/Hungary23_Fri-1010.jpg.transform/9col/image.jpg)
+![Piloto de F1](https://cdn-1.motorsport.com/images/amp/YN1oyLj2/s1200/michael-schumacher-lewis-hamil.webp)
 
 ## **Los Circuitos de Fórmula 1**
 
@@ -42,7 +42,7 @@ Las carreras de Fórmula 1 se llevan a cabo en una variedad de circuitos, que va
 - **Circuito de Spa-Francorchamps**: Famoso por su subida "Eau Rouge".
 - **Circuito de Silverstone**: La cuna de la F1 en el Reino Unido, con curvas de alta velocidad.
 
-![Circuito de Mónaco](https://www.formula1.com/content/dam/fom-website/manual/Misc/2023manual/Monaco23_Fri-1020.jpg.transform/9col/image.jpg)
+![Circuito de Mónaco](https://cdn-5.motorsport.com/images/mgl/6b7eNpB0/s8/le-circuit-de-monaco-1.jpg)
 
 ## **La Situación Actual de la F1**
 
